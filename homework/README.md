@@ -6,7 +6,7 @@
 
 ![alt text](img/bash.png "Скрин по bash")​
 
-![alt text](img/MarkDown.png "Скрин по MD")​
+![alt text](img/MD.png "Скрин по MD")​
 
 ![alt text](img/terraform.png "Скрин по terraform")
 

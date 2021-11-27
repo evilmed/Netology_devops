@@ -11,7 +11,7 @@ local k = (import 'ksonnet-util/kausal.libsonnet');
     },
   },
 
-  local serviceAccount = k.core.v1.serviceAccount,
+  local ser viceAccount = k.core.v1.serviceAccount,
 
   serviceAccount:
     serviceAccount.new($._config.name) +
