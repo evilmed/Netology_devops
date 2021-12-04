@@ -1,0 +1,22 @@
+# В данном случае мы игнорируем все файлы в папке .terraform во всех подпапках 
+**/.terraform/*
+
+# В данном случае мы игнорируем все файлы с разрешением "*.tfstate" и все фацлы содержащие ".tfstate" в еорневом каталоге 
+*.tfstate
+*.tfstate.*
+
+# Игонорируем файл с названием "crash.log"  в корневом каталоге проекта
+crash.log
+
+#В данном случае мы игнорируем все файлы с разрешением "*.tfvars" в корневом каталоге проекта
+*.tfvars
+
+# В данном случае мы игнорируем все файлы с окончанием на  "_override.tf" и  "_override.tf.json" а также файлы override.tf и override.tf.json в корневом каталоге проекта
+ override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# В данном случае мы игнорируем все файлы ".terraformrc" и "terraform.rc" в корневом каталоге проекта
+.terraformrc
+terraform.rc
