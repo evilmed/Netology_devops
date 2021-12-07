@@ -22,8 +22,8 @@
  > *_override.tf.json
 
 6. Будут игнорироваться файлы c названием ".terraformrc" и "terraform.rc"
- .terraformrc
- terraform.rc
+> .terraformrc
+> terraform.rc
 
 
 
