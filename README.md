@@ -25,5 +25,5 @@
 > .terraformrc
 > terraform.rc
 
-
+7. Этот пункт был исправлен в Pycharm
 
