@@ -25,6 +25,24 @@
 > .terraformrc
 > terraform.rc
 
+## Задание № 1 от лекции "Ветвления в GIT"
+
+![alt text](homework/img/STEP1.png "ШАГ 1")
+
+![alt text](homework/img/STEP2.png "ШАГ 2")
+
+![alt text](homework/img/STEP3.png "ШАГ 3")        ![alt text](homework/img/BRANCH1.png "Промежуточный результат в репозитории")
+
+![alt text](homework/img/STEP4.png "ШАГ 4")
+
+![alt text](homework/img/STEP5.png "ШАГ 5")
+
+![alt text](homework/img/STEP6.png "ШАГ 6")
+
+![alt text](homework/img/STEP7.png "ШАГ 7")
+
+![alt text](homework/img/BRANCH2.png "Итог в репозитории")
+
 ## Домашнее задание к занятию «2.4. Инструменты Git»
 
 1. Полный хеш коммита aefead2207ef7e2aa5dc81a34aedf0cad4c32545 "Update CHANGELOG.md"
